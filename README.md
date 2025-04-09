@@ -26,6 +26,9 @@ This project is in the **prototype phase**. Core features are still under develo
 
 ---
 
+## ✨ Download Software
+https://drive.google.com/drive/folders/1pJj6DXkbc7RrFacjH6j0w_2Xa_tinSrq?usp=sharing
+
 ## 📦 Installation
 
 > ⚠️ This prototype is not ready for production use.
