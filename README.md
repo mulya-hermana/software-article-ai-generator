@@ -30,7 +30,3 @@ This project is in the **prototype phase**. Core features are still under develo
 
 > ⚠️ This prototype is not ready for production use.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/article-ai-generator.git
-   cd article-ai-generator
